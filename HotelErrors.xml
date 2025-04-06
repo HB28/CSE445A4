@@ -5,7 +5,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address _NearestAirport="Sky Harbor">
+		<Address _NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -16,7 +16,7 @@
 	<Hotel>
 		<Name>Hotel Tempest</Name>
 		<Phone>480-774-2500</Phone>
-		<Address _NearestAirport="Sky Harbor">
+		<Address _NearstAirport="Sky Harbor">
 			<Number>1375</Number>
 			<Street>E University Dr</Street>
 			<City>Tempe</City>
@@ -37,7 +37,7 @@
 	</Hotel>
 	<Hotel _Rating="4.6">
 		<Name>Holiday Inn</Name>
-		<Address _NearestAirport="Phoenix Mesa Gateway">
+		<Address _NearstAirport="Phoenix Mesa Gateway">
 			<Number>5285</Number>
 			<Street>E Baseline Rd</Street>
 			<City>Gilbert</City>
@@ -48,7 +48,7 @@
 	<Hotel>
 		<Name>Super 8</Name>
 		<Phone>406-251-2255</Phone>
-		<Address _NearestAirport="Missoula Airport">
+		<Address _NearstAirport="Missoula Airport">
 			<Number>3901</Number>
 			<Street>Brooks St</Street>
 			<City>Missoula</City>
@@ -59,7 +59,7 @@
 	<Hotel>
 		<Name>Comfort Inn</Name>
 		<Phone>501-687-7700</Phone>
-		<Address _NearestAirport="Little Rock Airport">
+		<Address _NearstAirport="Little Rock Airport">
 			<Number>707</Number>
 			<Street>I-30 Frontage Rd</Street>
 			<City>Little Rock</City>
@@ -70,7 +70,7 @@
 	<Hotel _Rating="2.4">
 		<Name>Sheridan Hotel</Name>
 		<Phone>718-861-6500</Phone>
-		<Address _NearestAirport="Laguardia Airport">
+		<Address _NearstAirport="Laguardia Airport">
 			<Number>1440</Number>
 			<Street>Sheridan Expressway</Street>
 			<City>New York</City>
@@ -81,7 +81,7 @@
 	<Hotel>
 		<Name>Graduate</Name>
 		<Phone>612-379-8888</Phone>
-		<Address _NearestAirport="Minneapolis-Saint Paul Airport">
+		<Address _NearstAirport="Minneapolis-Saint Paul Airport">
 			<Number>615</Number>
 			<Street>Washington Ave</Street>
 			<City>Minneapolis</City>
@@ -93,7 +93,7 @@
 		<Name>Best Western</Name>
 		<Name>Worst Western</Name>
 		<Phone>605-336-0650</Phone>
-		<Address _NearestAirport ="Sioux Falls Regional Airport">
+		<Address _NearstAirport ="Sioux Falls Regional Airport">
 			<Number>3200</Number>
 			<Street>W Maple St</Street>
 			<City>Sioux Falls</City>
@@ -104,7 +104,7 @@
 	<Hotel _Rating ="4.2">
 		<Name>DoubleTree</Name>
 		<Phone>336-668-0421</Phone>
-		<Address _NearestAirport="Piedmont Triad International Airport">
+		<Address _NearstAirport="Piedmont Triad International Airport">
 			<Number>6426</Number>
 			<Street>Burnt Poplar Rd</Street>
 			<City>Greensboro</City>
